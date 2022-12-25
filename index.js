@@ -21,7 +21,7 @@ for (let i = 0; i < questions.length; i++)
         userScore += 10 
     }
     else {
-        console.log ("Congratulations you played yourself ")
+        console.log ("Bruh")
 //log (Question ${i+1} is incorrect)
 
     }
